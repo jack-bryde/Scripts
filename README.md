@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @jack-bryde
+- I'm simply using GitHub to store useful VBA & PowerShell scripts, keep losing that damn USB stick!
+
+
+
+
+Other:
 - 👀 Interested in: health care / pre-hospital medicine / programming / statistics / data science
-- I'm simply using GitHub to store useful VBA & PowerShell scripts, but may try some amateur data science projects in the near future.
 - Familiarity with a number of languages: C, Python, R, Java. Would like to learn C# or C++ one day.
-- Cunningham's Law: "the best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer." If you are here for whatever reason, please feel free to provide feedback.
+- "The best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer." (Cunningham's Law)
 - *Note: code has been heavily cut for security reasons and is unlikely to run without additional effort. It is here as a reminder to myself for similar projects in the future.*
 
 <!---
