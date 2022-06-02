@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jack-bryde
+- 👋 Hi, I’m Jack
 - I'm simply using GitHub to store useful VBA & PowerShell scripts, keep losing that damn USB stick!
 
 
