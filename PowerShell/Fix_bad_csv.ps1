@@ -1,6 +1,6 @@
 # A large .csv file that contained " as a field value, breaking upon import by Excel
 # (works one file at a time, put in loop for folder)
-$ADT = Get-ChildItem "T:\file_path\file.csv"
+$ADT = Get-ChildItem "C:\file_path\file.csv"
 $content = Get-Content $ADT.FullName -Raw
 # New name removed the datestamp in each file
 $newName = $ADT.Name.substring($ADT.Name.Length - 15, 15).Replace("_", " ")
