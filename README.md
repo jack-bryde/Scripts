@@ -8,7 +8,7 @@ Other:
 - 👀 Interested in: health care / pre-hospital medicine / programming / statistics / data science
 - Familiarity with a number of languages: C, Python, R, Java.
 - "The best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer." (Cunningham's Law)
-- *Note: code has been heavily cut for security reasons and is unlikely to run without additional effort. It is here as a reminder to myself for similar projects in the future. If you see something that might be wrong please let me know.*
+- *Note: code has been heavily cut for security reasons and is unlikely to run without additional effort. It is here as a reminder to myself for similar projects in the future. Critisism welcome!*
 
 <!---
 jack-bryde/jack-bryde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
