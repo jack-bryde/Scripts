@@ -7,7 +7,7 @@ Get-ChildItem -Path $currentCSV | foreach { $_.Delete()}
 
 # Then, for each .xlsx, convert it to a csv, and save to previous folder
 # (note, Excel object (see MS ComObject Application documentation) seems to allow VBA methods on workbooks & worksheets)
-$currentXL = "C:\AIR Data - COVID\Current"
+$currentXL = "C:\Current"
 Get-ChildItem $currentXL | ForEach-Object {
     $XL = New-Object -ComObject Excel.Application
     $XL.Visible = $false
