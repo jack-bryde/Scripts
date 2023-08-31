@@ -6,8 +6,9 @@
 
 Other:
 - 👀 Interested in: health care / pre-hospital medicine / programming / statistics / data science
-- Familiarity with a number of languages: C, Python, R, Java.
-- "The best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer." (Cunningham's Law)
+- Currently focusing on Power BI
+- Familiarity with a number of languages: C, Python, R, Java. Mostly R. 
+- I use too many comments, as my coding life is basically [Memento](https://en.wikipedia.org/wiki/Memento_(film))
 - *Note: code has been heavily cut for security reasons and is unlikely to run without additional effort. It is here as a reminder to myself for similar projects in the future. Critisism welcome!*
 
 <!---
