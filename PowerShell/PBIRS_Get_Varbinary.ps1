@@ -22,6 +22,7 @@
 # - Re-publish to RS via SQL
 # - Get/modify automatic refresh data on Server
 # - Code in R
+# - Wait for Fabric Power BI Projects to come to Report Server
 
 # Configuration data
 $Server = "server"; # SQL Server Instance.
