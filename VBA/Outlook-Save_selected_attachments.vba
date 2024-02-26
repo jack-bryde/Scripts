@@ -1,8 +1,7 @@
 Option Explicit
 
 '
-' Inherited tool for saving emailed datasets to a single folder (these were then collated in Power Query).
-' Previous owner unfamiliar with VBA, I've added comments, declared variables, counters and some early binding
+' Tool for saving emailed datasets to a single folder.
 '
 ' Import: Microsoft Scripting Runtime; Microsoft Outlook 16.0 Library;
 '
